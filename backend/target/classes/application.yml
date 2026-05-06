@@ -1,0 +1,48 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: parampara-bazaar-backend
+
+  datasource:
+    url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1
+    driverClassName: org.h2.Driver
+    username: sa
+    password: 
+
+  h2:
+    console:
+      enabled: true
+
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+app:
+  jwt:
+    secret: "parampara_bazaar_super_secret_key_2026_long_1234567890_abcdef"
+    expirationMs: 86400000
+
+  razorpay:
+    keyId: "rzp_test_SCw8DPx0c2Y1Bw"
+    keySecret: "QyGKwSPn8EXaFXp5XbwWDRM0"
+
+logging:
+  level:
+    org.springframework.security: INFO
+
+openai:
+  api:
+    key: ${OPENAI_API_KEY:}
+    model: ${OPENAI_MODEL:gpt-4o-mini}
+
+openrouter:
+  api:
+    key: ${OPENROUTER_API_KEY:}
+  model: ${OPENROUTER_MODEL:mistralai/mistral-7b-instruct}

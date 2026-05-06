@@ -1,0 +1,30 @@
+[
+  {
+    "id": "market-sarojini",
+    "name": "Sarojini Nagar",
+    "subtitle": "Delhi's Fashion Hub",
+    "image": "/assets/markets/sarojini.jpg",
+    "description": "The ultimate destination for trendy, budget-friendly street fashion."
+  },
+  {
+    "id": "market-janpath",
+    "name": "Janpath",
+    "subtitle": "Bohemian Paradigm",
+    "image": "/assets/markets/janpath.jpg",
+    "description": "A vibrant stretch offering oxidized jewelry, embroidered bags, and vintage finds."
+  },
+  {
+    "id": "market-colaba",
+    "name": "Colaba Causeway",
+    "subtitle": "Mumbai's Heartbeat",
+    "image": "/assets/markets/colaba.jpg",
+    "description": "A bustling lane of antiques, accessories, and eclectic coastal clothing."
+  },
+  {
+    "id": "market-laad",
+    "name": "Laad Bazaar",
+    "subtitle": "The Bangle Street",
+    "image": "/assets/markets/laad.jpg",
+    "description": "Hyderabad's historic market famous for dazzling lac bangles and pearls."
+  }
+]

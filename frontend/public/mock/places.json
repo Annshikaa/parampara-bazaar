@@ -1,0 +1,30 @@
+[
+  {
+    "id": "place-varanasi",
+    "name": "Varanasi",
+    "subtitle": "The Spiritual Capital",
+    "image": "/assets/places/varanasi.jpg",
+    "description": "Famous for Banarasi silk and intricate weaves, offering heritage pieces that stand the test of time."
+  },
+  {
+    "id": "place-kashmir",
+    "name": "Kashmir",
+    "subtitle": "Paradise on Earth",
+    "image": "/assets/places/kashmir.jpg",
+    "description": "Home to the world's finest Pashmina shawls and exquisite Kashmiri embroidery."
+  },
+  {
+    "id": "place-jaipur",
+    "name": "Jaipur",
+    "subtitle": "The Pink City",
+    "image": "/assets/places/jaipur.jpg",
+    "description": "Renowned for vibrant block prints, bandhani, and authentic silver jewelry."
+  },
+  {
+    "id": "place-kanchipuram",
+    "name": "Kanchipuram",
+    "subtitle": "City of Silk",
+    "image": "/assets/places/kanchipuram.jpg",
+    "description": "Crafting the most durable and majestic silk sarees woven with pure zari."
+  }
+]

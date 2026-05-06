@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --bg: 255 255 255;
+  --fg: 12 14 20;
+  --muted: 245 246 250;
+  --card: 255 255 255;
+  --border: 229 231 235;
+
+  /* signature accent: electric lilac */
+  --accent: 99 102 241;
+  --accent2: 236 72 153;  /* pink glow */
+  --accent3: 16 185 129;  /* mint glow */
+}
+
+html,body{height:100%}
+body{
+  background: rgb(var(--bg));
+  color: rgb(var(--fg));
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection{
+  background: rgba(99,102,241,0.22);
+}
+
+/* premium layered background */
+.app-bg{
+  background:
+    radial-gradient(900px 460px at 10% 12%, rgba(99,102,241,0.18), transparent 60%),
+    radial-gradient(880px 440px at 92% 18%, rgba(16,185,129,0.12), transparent 58%),
+    radial-gradient(980px 520px at 50% 112%, rgba(236,72,153,0.12), transparent 60%),
+    linear-gradient(180deg, rgba(255,255,255,1), rgba(250,250,252,1));
+}
+
+/* subtle motif overlay (very minimal “parampara” feel) */
+.motif{
+  position: relative;
+}
+.motif::before{
+  content:"";
+  position:absolute;
+  inset:-120px -80px;
+  background-image:
+    radial-gradient(circle at 20px 20px, rgba(0,0,0,0.05) 1px, transparent 1px);
+  background-size: 44px 44px;
+  opacity: 0.35;
+  pointer-events:none;
+  mask-image: radial-gradient(circle at 40% 20%, black 45%, transparent 70%);
+}
+
+/* glass card helper */
+.glass{
+  background: rgba(255,255,255,0.72);
+  border: 1px solid rgba(0,0,0,0.08);
+  backdrop-filter: blur(14px);
+}
+
+/* scrollbar */
+::-webkit-scrollbar{width:10px}
+::-webkit-scrollbar-thumb{background: rgba(0,0,0,0.16); border-radius: 999px}
+::-webkit-scrollbar-track{background: rgba(0,0,0,0.06)}

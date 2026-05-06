@@ -1,0 +1,62 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Katan Silk Banarasi Saree",
+    "price": 4500,
+    "image": "/assets/products/p1.jpg",
+    "rating": 4.8,
+    "placeId": "place-varanasi",
+    "tag": "Heritage",
+    "description": "Exquisite handwoven Banarasi saree featuring intricate zari work, perfect for weddings and heritage events."
+  },
+  {
+    "id": "prod-2",
+    "name": "Authentic Pashmina Shawl",
+    "price": 8500,
+    "image": "/assets/products/p2.jpg",
+    "rating": 4.9,
+    "placeId": "place-kashmir",
+    "tag": "Luxury",
+    "description": "Ultra-soft, pure Pashmina sourced directly from the artisans of Kashmir. Warm and remarkably lightweight."
+  },
+  {
+    "id": "prod-3",
+    "name": "Hand-Blocked Indigo Kurta",
+    "price": 1200,
+    "image": "/assets/products/p3.jpg",
+    "rating": 4.5,
+    "placeId": "place-jaipur",
+    "tag": "Trending",
+    "description": "Breathable cotton kurta dyed with natural indigo using traditional Bagru block printing techniques."
+  },
+  {
+    "id": "prod-4",
+    "name": "Oxidized Silver Jhumkas",
+    "price": 350,
+    "image": "/assets/products/p4.jpg",
+    "rating": 4.6,
+    "marketId": "market-janpath",
+    "tag": "Street Style",
+    "description": "Statement tribal-inspired earrings that elevate any ethnic or boho-chic outfit."
+  },
+  {
+    "id": "prod-5",
+    "name": "Vintage Denim Jacket",
+    "price": 850,
+    "image": "/assets/products/p5.jpg",
+    "rating": 4.3,
+    "marketId": "market-sarojini",
+    "tag": "Bestseller",
+    "description": "Upcycled, oversized denim jacket with custom back embroidery. A Gen-Z essential."
+  },
+  {
+    "id": "prod-6",
+    "name": "Stone-studded Lac Bangles",
+    "price": 600,
+    "image": "/assets/products/p6.jpg",
+    "rating": 4.7,
+    "marketId": "market-laad",
+    "tag": "Classic",
+    "description": "A set of four dazzling, handcrafted lac bangles embedded with mirrored stones."
+  }
+]
