@@ -268,7 +268,8 @@ Parampara-Bazaar/
 ---
 
 ## 🗣 Hindi Negotiation Interface
-<img width="1718" height="916" alt="bazaar-9" src="https://github.com/user-attachments/assets/78cbb1aa-0f36-490e-8e68-6a10e34ccb00" />
+<img width="1717" height="916" alt="bazaar-8" src="https://github.com/user-attachments/assets/e77de0d3-6ab7-4ceb-8f96-182d7ab4d9d4" />
+
 
 
 ---
