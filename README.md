@@ -235,6 +235,7 @@ Parampara-Bazaar/
 
 <img width="1607" height="616" alt="paramparabazaar-1" src="https://github.com/user-attachments/assets/fdf65a39-6e0d-4b7e-af46-65d6c42bf867" />
 
+<img width="1716" height="791" alt="Bazaar-2" src="https://github.com/user-attachments/assets/307574e7-c9e2-418f-a59d-26200533943b" />
 
 ---
 
@@ -253,13 +254,14 @@ Parampara-Bazaar/
 ---
 
 ## 🛍 Shopping Experience
+<img width="1717" height="916" alt="bazaar-6" src="https://github.com/user-attachments/assets/e58d6354-0b96-42d9-9312-399109ed251d" />
 
-<img width="1717" height="916" alt="bazaar-8" src="https://github.com/user-attachments/assets/e4d1a2c8-dc91-4df4-bef0-0d1c1726c308" />
 
 ---
 
 ## 🤝 Negotiation Feature
-<img width="1717" height="916" alt="bazaar-8" src="https://github.com/user-attachments/assets/2551ca44-0aec-4a9e-95e2-7b9ec5edf5c2" />
+<img width="1718" height="916" alt="bazaar-9" src="https://github.com/user-attachments/assets/481008b9-be75-4f19-8f9e-2901b075eae3" />
+
 
 
 
