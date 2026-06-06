@@ -14,8 +14,6 @@
 
 *A modern full-stack cultural marketplace platform empowering artisans, handmade creators, and traditional businesses through scalable digital commerce.*
 
-🚧 **THIS PROJECT IS CURRENTLY UNDER CONSTRUCTION** 🚧
-
 </div>
 
 ---
