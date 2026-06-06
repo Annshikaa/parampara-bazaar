@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Status-UNDER%20CONSTRUCTION-orange?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Next.js-Fullstack-black?style=for-the-badge&logo=next.js" />
 <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql" />
 <img src="https://img.shields.io/badge/Redis-Caching-red?style=for-the-badge&logo=redis" />
