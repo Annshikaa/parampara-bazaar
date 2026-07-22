@@ -391,7 +391,7 @@ Architecture, APIs, workflows, database schemas, and UI components are continuou
 ## Anshika Jain
 
 Int. MTech in Computer Science Engineering  
-VIT Bhopal University
+Vellore Institute of Technology
 
 ---
 
